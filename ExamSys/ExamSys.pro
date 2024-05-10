@@ -17,12 +17,14 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
 #    ../exercise1/car.cpp \
+    answeritem.cpp \
     examdialog.cpp \
     main.cpp \
     logindialog.cpp
 
 HEADERS += \
 #    ../exercise1/car.h \
+    answeritem.h \
     examdialog.h \
     logindialog.h
 
